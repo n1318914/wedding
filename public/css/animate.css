@@ -1,9 +1,9 @@
 @charset "UTF-8";
 
 /*!
- * animate.css -http://daneden.me/animate
+ * animate.css -https://daneden.me/animate
  * Version - 3.5.0
- * Licensed under the MIT license - http://opensource.org/licenses/MIT
+ * Licensed under the MIT license - https://opensource.org/licenses/MIT
  *
  * Copyright (c) 2016 Daniel Eden
  */
@@ -3394,7 +3394,7 @@
     -webkit-transform: scale3d(2, 2, 2);
     transform: scale3d(2, 2, 2);
   }
-  
+
   5% {
     opacity: 0;
     -webkit-transform: scale3d(2, 2, 2);
